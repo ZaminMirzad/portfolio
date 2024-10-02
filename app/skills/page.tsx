@@ -36,7 +36,7 @@ const slugs = [
 
 export default function Skills() {
 	return (
-		<section className="w-full max-w-5xl py-12">
+		<section className="w-full max-w-4xl py-12">
 			<div className="bg-earia-black h-full w-full rounded-2xl border p-10 overflow-y-auto border-jet relative">
 				<Menu />
 
